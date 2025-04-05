@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is LionX and I'm a C++ programmer, from Azerbaijan</h2>
+<h2 align="left">Hi 👋! My name is LionX and I'm a Desktop Software programmer, from Azerbaijan</h2>
 
 ###
 
