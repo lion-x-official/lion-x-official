@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is LionX and I'm a Desktop Software programmer, from ???</h2>
 
 ###
 
